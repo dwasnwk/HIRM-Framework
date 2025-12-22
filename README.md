@@ -32,7 +32,7 @@ Consciousness emerges when C(t) exceeds this threshold through a phase transitio
 **Status:** 7 predictions already empirically supported/confirmed
 
 ### [Framework Overview](docs/HIRM_Framework_Overview.docx)
-Complete mathematical formalization including:
+Mathematical framework overview including:
 - Master equation derivation from first principles
 - C_critical calculation (holographic bounds + neural constraints)
 - SRID phase transition mechanism
