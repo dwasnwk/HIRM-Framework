@@ -150,4 +150,4 @@ Mathematical framework: Open for academic use and validation
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
